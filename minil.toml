@@ -1,0 +1,6 @@
+name = "Darviarush-Ex2"
+# badges = ["travis-ci.com"]
+module_maker="ModuleBuildTiny"
+
+[release]
+do_not_upload_to_cpan=true
